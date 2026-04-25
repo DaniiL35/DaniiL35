@@ -15,8 +15,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display:flex;align-items:center;gap:4px;flex-wrap:nowrap;">
-<img src="https://skillicons.dev/icons?i=aws,bash,c,django,docker,flask,git,grafana,java,jenkins,kubernetes,linux,mongodb,nginx,nodejs,postgres,py,selenium&perline=18" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="48" height="48"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,bash,c,django,docker,flask,git,grafana,java,jenkins,kubernetes,linux,mongodb,nginx,nodejs,postgres,py,selenium,kibana&perline=19" />
 </p>
 
