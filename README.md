@@ -16,6 +16,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,bash,c,django,docker,flask,git,grafana,java,jenkins,kubernetes,linux,mongodb,nginx,nodejs,postgres,py,selenium,kibana&perline=19" />
+<img src="https://skillicons.dev/icons?i=aws,bash,c,django,docker,flask,git,grafana,java,jenkins,kubernetes,linux,mongodb,nginx,nodejs,postgres,py,selenium,kibana" />
 </p>
 
